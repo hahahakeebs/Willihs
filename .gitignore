@@ -25,3 +25,4 @@ images/*
 # Unnecessary files
 plate/*/*.kicad_prl
 bottom/*/*.kicad_prl
+.DS_Store
